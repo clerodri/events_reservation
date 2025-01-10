@@ -1,4 +1,4 @@
-# Event Reservations REST API 
+# Event Reservations REST API (Spring boot + Security JWT + Data JPA + Testing)
 ### Author: _RONALDO RODRIGUEZ_
 ## Table of Contents
 
