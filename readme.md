@@ -42,8 +42,10 @@ and user authentication.
 
 ### Architecture 
 
-![api_architecture](https://github.com/user-attachments/assets/e3a12e91-8e8a-43fc-8f92-7848e97264fd)
-![api_database](https://github.com/user-attachments/assets/c32a83f5-1f3d-4102-91be-5c86ace3c641)
+![WhatsApp Image 2025-01-09 at 10 09 39 PM](https://github.com/user-attachments/assets/aa1b785d-7a59-4a64-bb9f-5afc2208cf6a)
+
+![WhatsApp Image 2025-01-09 at 10 09 23 PM](https://github.com/user-attachments/assets/726ba0d0-3c84-4cb2-afbf-fca78c728cf4)
+
 
 ---
 ### Steps to Run Locally
